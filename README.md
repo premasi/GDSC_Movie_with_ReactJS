@@ -14,6 +14,6 @@ Add Movie Favorite
 ![Search](./foto/4.png)
 
 Remove Movie Favorite
-![Search](./foto/4.png)
+![Search](./foto/5.png)
 
 
