@@ -1,5 +1,5 @@
-# GDSC_Tugas-FE
-Tugas Front End
+# GDSC_Movie_with_ReactJS
+Front End with React JS
 
 Halaman Utama
 ![HalamanUtamaAtas](./foto/1.png)
